@@ -9,7 +9,7 @@ export default function Home() {
       <h2 className="title">my Next</h2>
       <div className="desc">
         <p className="InnerText">
-          학습 목표
+          학습 목표!
           <br />
           - Router
           <br />
